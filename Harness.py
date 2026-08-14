@@ -6,7 +6,7 @@ from pathlib import Path
 # 配置信息
 DEFAULT_DIR = r"C:/Deepseek-Harness"
 GIT_REPO = "https://github.com/deepseek-ai/deepseek-harness.git"
-GOAL_URL = "http://127.0.0.1:3080/"
+GOAL_URL = "http://127.0.0.1:3080"
 BAT_FILENAME = "Harness.bat"
 DESKTOP_PATH = Path(os.path.expanduser("~/Desktop"))
 
