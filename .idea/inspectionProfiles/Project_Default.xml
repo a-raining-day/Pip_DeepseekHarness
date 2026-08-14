@@ -1,0 +1,196 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="akracer" />
+          <option value="akshare" />
+          <option value="alembic" />
+          <option value="antropy" />
+          <option value="axial_positional_embedding" />
+          <option value="beautifulsoup4" />
+          <option value="bs4" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="cmdstanpy" />
+          <option value="colorama" />
+          <option value="colorlog" />
+          <option value="CoLT5-attention" />
+          <option value="contourpy" />
+          <option value="cuda-bindings" />
+          <option value="cuda-pathfinder" />
+          <option value="cuda-toolkit" />
+          <option value="curl_cffi" />
+          <option value="cycler" />
+          <option value="decorator" />
+          <option value="dill" />
+          <option value="einops" />
+          <option value="EMD-signal" />
+          <option value="et_xmlfile" />
+          <option value="ewtpy" />
+          <option value="fastexcel" />
+          <option value="fastxlsx" />
+          <option value="filelock" />
+          <option value="fonttools" />
+          <option value="fsspec" />
+          <option value="greenlet" />
+          <option value="holidays" />
+          <option value="html5lib" />
+          <option value="hyper-connections" />
+          <option value="idna" />
+          <option value="importlib_resources" />
+          <option value="Jinja2" />
+          <option value="joblib" />
+          <option value="jsonpath" />
+          <option value="kiwisolver" />
+          <option value="llvmlite" />
+          <option value="local-attention" />
+          <option value="lxml" />
+          <option value="Mako" />
+          <option value="markdown-it-py" />
+          <option value="MarkupSafe" />
+          <option value="matplotlib" />
+          <option value="mdurl" />
+          <option value="mini-racer" />
+          <option value="mpmath" />
+          <option value="multiprocess" />
+          <option value="narwhals" />
+          <option value="networkx" />
+          <option value="numba" />
+          <option value="numpy" />
+          <option value="openpyxl" />
+          <option value="optuna" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="pathos" />
+          <option value="pillow" />
+          <option value="plotly" />
+          <option value="polars" />
+          <option value="polars-runtime-32" />
+          <option value="pox" />
+          <option value="ppft" />
+          <option value="product_key_memory" />
+          <option value="prophet" />
+          <option value="psutil" />
+          <option value="py-mini-racer" />
+          <option value="pyarrow" />
+          <option value="pycparser" />
+          <option value="Pygments" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="reformer-pytorch" />
+          <option value="requests" />
+          <option value="rich" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="seaborn" />
+          <option value="simplejson" />
+          <option value="six" />
+          <option value="soupsieve" />
+          <option value="SQLAlchemy" />
+          <option value="stanio" />
+          <option value="sympy" />
+          <option value="tabulate" />
+          <option value="threadpoolctl" />
+          <option value="tomli" />
+          <option value="torch-einops-utils" />
+          <option value="tqdm" />
+          <option value="tushare" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="vmdpy" />
+          <option value="webencodings" />
+          <option value="websocket-client" />
+          <option value="xgboost" />
+          <option value="xlrd" />
+          <option value="altgraph" />
+          <option value="async-timeout" />
+          <option value="cx_Logging" />
+          <option value="importlib_metadata" />
+          <option value="pefile" />
+          <option value="pyinstaller" />
+          <option value="pyinstaller-hooks-contrib" />
+          <option value="pywin32-ctypes" />
+          <option value="zipp" />
+          <option value="pyemd" />
+          <option value="Modal-Decomposition" />
+          <option value="torch" />
+          <option value="about-time" />
+          <option value="alive-progress" />
+          <option value="autograd" />
+          <option value="choreographer" />
+          <option value="cma" />
+          <option value="Deprecated" />
+          <option value="graphemeu" />
+          <option value="highspy" />
+          <option value="kaleido" />
+          <option value="logistro" />
+          <option value="moocore" />
+          <option value="orjson" />
+          <option value="patsy" />
+          <option value="platformdirs" />
+          <option value="Platypus" />
+          <option value="ply" />
+          <option value="PuLP" />
+          <option value="pymoo" />
+          <option value="pyomo" />
+          <option value="PySCIPOpt" />
+          <option value="statsmodels" />
+          <option value="wrapt" />
+          <option value="xlsxwriter" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E265" />
+          <option value="E111" />
+          <option value="E302" />
+          <option value="E305" />
+          <option value="E231" />
+          <option value="E731" />
+          <option value="W605" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="all" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="scipy-stubs==1.16.3.0" />
+          <option value="pandas-stubs==3.0.0.260204" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="object.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
