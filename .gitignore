@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# --- 虚拟环境 ---
+.venv/
+venv/
+
+# --- 构建产物 ---
+build/
+dist/
+*.zip
+
+# --- IDE ---
+.idea/
+.vscode/
+*.iml
+
+# --- 运行时生成 ---
+output.txt
